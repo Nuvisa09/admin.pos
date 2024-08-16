@@ -6,7 +6,7 @@ Web Admin POS adalah aplikasi admin berbasis web yang dirancang untuk mengelola 
 
 ## Link
 
-Anda dapat mengakses aplikasi web admin POS di [https://admin-pos-lake.vercel.app/](Here).
+Anda dapat mengakses aplikasi web admin POS di [POS Admin Web](https://admin-pos-lake.vercel.app/).
 
 ## Prerequisites
 
